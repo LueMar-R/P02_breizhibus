@@ -1,8 +1,17 @@
 # P02_breizhibus
 
-##  La base de données 
 
 ## Le fonctionnement de l'appli
+
+L'interface comporte 3 fenêtres.
+
+Dans la première interface, un bouton permet l'affichage des arrêts et des bus d'une ligne choisie dans sune combo-box. Le résultat s'affiche directement dans la  fenêtre.<br>
+En bas de la fenêtre, une combo-box suivie d'un autre bonton permettent de choisir une autre action à exécuter : ajouter, ou modifier/supprimer un bus. L'appui sur le bonton affiche la fenêtre correspondante.
+
+La fenêtre ajout comporte les champs nécessaires pour entrer un nouveau bus en base. Tous les champs sont oligatoires et une popup d'erreur s'affiche si l'utilisateur ommet un champ.
+
+La dernière fenetre comporte deux volets, l'un permettant la modification du bus choisi dna sle menu déroulant commun, l'autre sa suppression. 
+
 
 ## choix techniques
 
@@ -19,4 +28,10 @@ Les principaux modules pythons utilisés sont :
 
 ## difficultés rencontrées 
 
-J'ai réalisé ma première inteface graphique pour ce projet. J'ai donc dû apprendre à utiliser PyQt depuis la abse pour pouvoir le réaliser.
+J'ai réalisé ma première inteface graphique pour ce projet. J'ai choisi d'utiliser PyQt pour cela et j'ai donc passé un certain temps à suivre de nombreux tutoriels. <br>
+quelques références :
+* [Tech With Tim - Playlist PyQt5](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
+* [courspython.com - Interfaces graphiques](https://courspython.com/interfaces.html)
+
+Pour l'interface principale, réalisée au tout début du projet, j'ai choisi un présentation stackée verticalement. Ce n'est probablement pas le choix que je ferais si je devais refaire ce brief, mais c'est fonctionnel. J'ai beaucoup appris sur les interfaces graphiques lors de ce projet.
+
