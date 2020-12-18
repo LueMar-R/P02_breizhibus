@@ -7,11 +7,15 @@ L'interface comporte 3 fenêtres.
 
 Dans la première interface, un bouton permet l'affichage des arrêts et des bus d'une ligne choisie dans sune combo-box. Le résultat s'affiche directement dans la  fenêtre.<br>
 En bas de la fenêtre, une combo-box suivie d'un autre bonton permettent de choisir une autre action à exécuter : ajouter, ou modifier/supprimer un bus. L'appui sur le bonton affiche la fenêtre correspondante.
+![cap1](cap1.png) ![cap2](cap2.png)
 
-La fenêtre ajout comporte les champs nécessaires pour entrer un nouveau bus en base. Tous les champs sont oligatoires et une popup d'erreur s'affiche si l'utilisateur ommet un champ.
+La fenêtre ajout comporte les champs nécessaires pour entrer un nouveau bus en base. Tous les champs sont oligatoires et une popup d'erreur s'affiche si l'utilisateur omet un champ.
+
+![cap3](cap3.png)
 
 La dernière fenetre comporte deux volets, l'un permettant la modification du bus choisi dna sle menu déroulant commun, l'autre sa suppression. 
 
+![cap4](cap4.png)
 
 ## choix techniques
 
