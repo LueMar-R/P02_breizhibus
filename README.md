@@ -1,12 +1,14 @@
 # P02_breizhibus
 
 
+Python, MySQL, PyQt5
+
 ## Le fonctionnement de l'appli
 
 L'interface comporte 3 fenêtres.
 
-Dans la première interface, un bouton permet l'affichage des arrêts et des bus d'une ligne choisie dans sune combo-box. Le résultat s'affiche directement dans la  fenêtre.<br>
-En bas de la fenêtre, une combo-box suivie d'un autre bonton permettent de choisir une autre action à exécuter : ajouter, ou modifier/supprimer un bus. L'appui sur le bonton affiche la fenêtre correspondante.
+Dans la première interface, un bouton permet l'affichage des arrêts et des bus d'une ligne choisie dans une combo-box. Le résultat s'affiche directement dans la  fenêtre.<br>
+En bas de la fenêtre, une combo-box suivie d'un autre bouton permettent de choisir une autre action à exécuter : ajouter, ou modifier/supprimer un bus. L'appui sur le bonton affiche la fenêtre correspondante.
 
 ![cap1](images/cap1.png) 
 
@@ -14,7 +16,7 @@ La fenêtre ajout comporte les champs nécessaires pour entrer un nouveau bus en
 
 ![cap2](images/cap2.png)
 
-La dernière fenetre comporte deux volets, l'un permettant la modification du bus choisi dna sle menu déroulant commun, l'autre sa suppression. 
+La dernière fenetre comporte deux volets, l'un permettant la modification du bus choisi dans le menu déroulant commun, l'autre sa suppression. 
 
 ![cap3](images/cap3.png)
 ![cap4](images/cap4.png)
