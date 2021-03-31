@@ -32,12 +32,4 @@ Les principaux modules pythons utilisés sont :
 * `mysql.connector`, qui permet  de créer la connexion avec la base de données,
 * `pyqt5`, pour la création de toute l'interface graphique.
 
-## difficultés rencontrées 
-
-J'ai réalisé ma première inteface graphique pour ce projet. J'ai choisi d'utiliser PyQt pour cela et j'ai donc passé un certain temps à suivre de nombreux tutoriels. <br>
-quelques références :
-* [Tech With Tim - Playlist PyQt5](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
-* [courspython.com - Interfaces graphiques](https://courspython.com/interfaces.html)
-
-Pour l'interface principale, réalisée au tout début du projet, j'ai choisi un présentation stackée verticalement. Ce n'est probablement pas le choix que je ferais si je devais refaire ce brief, mais c'est fonctionnel. J'ai beaucoup appris sur les interfaces graphiques lors de ce projet.
 
